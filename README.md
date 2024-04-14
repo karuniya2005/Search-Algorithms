@@ -102,13 +102,13 @@ else:
 ```
 ## Sample Input and Output
 
-##linear search
+## linear search
 ![alt text](<Screenshot 2024-04-14 125311.png>)
 
-##binary search(iterative)
+## binary search(iterative)
 ![alt text](<Screenshot 2024-04-14 125448.png>)
 
-##binary search(recursive)
+## binary search(recursive)
 ![alt text](<Screenshot 2024-04-14 125516.png>)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
